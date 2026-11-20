@@ -1,0 +1,15 @@
+name: fiyat_avcisi
+description: Yuzde 90 degisimde link paylasan uygulama
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  share_plus: ^10.0.0
+
+flutter:
+  uses-material-design: true
